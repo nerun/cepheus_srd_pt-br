@@ -64,13 +64,11 @@ O Cepheus Engine usa uma mecânica básica de resolução de tarefas para
 resolver ações. Sempre que seu personagem tentar realizar qualquer ação
 em que tenha chance de falha, faça o seguinte:
 
-1\. Role dois dados de seis lados (abreviadamente 2D6).
+1. Role dois dados de seis lados (abreviadamente 2D6).
 
-2\. Adicione quaisquer modificadores relevantes (para coisas como
-características, habilidades, dificuldade e circunstâncias).
+2. Adicione quaisquer modificadores relevantes (para coisas como características, habilidades, dificuldade e circunstâncias).
 
-3\. Se o resultado for igual ou superior a 8, a ação será bem-sucedida.
-Se o resultado for inferior a 8, a ação falhará.
+3. Se o resultado for igual ou superior a 8, a ação será bem-sucedida. Se o resultado for inferior a 8, a ação falhará.
 
 Este sistema simples é usado em quase tudo no Cepheus Engine, com
 variações baseadas nos modificadores adicionados a uma rolagem e os
@@ -213,12 +211,12 @@ resultado do teste. Quando não é dada Dificuldade, presume-se que
 Modificador de Dificuldade é 0. Então, para uma tarefa com uma
 Dificuldade de +2, você deve adicionar +2 ao resultado do teste. Você é
 bem-sucedido se conseguir um total de 8 ou maior. A lista de níveis de
-dificuldade pode ser encontrada na tabela 0-2: Dificuldade das Tarefas.
+dificuldade pode ser encontrada na Tabela 0-2: Dificuldade das Tarefas.
 
 #### Tabela 0-2: Dificuldade das Tarefas
 
-| Dificuldade   | MD* |
-|---------------|-----|
+| Dificuldade   | MD  |
+|---------------|:---:|
 | Simples       | +6  |
 | Fácil         | +4  |
 | Rotineira     | +2  |
@@ -226,8 +224,6 @@ dificuldade pode ser encontrada na tabela 0-2: Dificuldade das Tarefas.
 | Difícil       | -2  |
 | Muito Difícil | -4  |
 | Formidável    | -6  |
-
-(*) Modificador de Dificuldade
 
 Em alguns casos, as consequências de um teste variam de acordo com o
 quão o resultado do teste está acima ou abaixo do número alvo 8. A
@@ -355,12 +351,9 @@ durante uma rodada são ações significativas, ações menores, ações
 estendidas, ações gratuitas e reações. Durante uma rodada, você pode
 fazer um dos seguintes procedimentos:
 
-• Iniciar ou continuar uma ação estendida.
-
-• Fazer uma ação significativa e uma ação menor.
-
-• Executar três ações menores, e renunciar a realizar uma ação
-significativa neste turno.
+- Iniciar ou continuar uma ação estendida.
+- Fazer uma ação significativa e uma ação menor.
+- Executar três ações menores, e renunciar a realizar uma ação significativa neste turno.
 
 Você pode executar tantas ações gratuitas e reações em uma rodada como
 desejar, embora o Mestre possa optar por limitá-las a um número razoável
@@ -382,7 +375,7 @@ uma referência rápida para converter valores para uso no Cepheus Engine.
 #### Tabela 0-4: Notação Pseudo-hexadecimal
 
 | Valor Atual | Pseudo Hex | Valor Atual | Pseudo Hex | Valor Atual | Pseudo Hex |
-|-------------|------------|-------------|------------|-------------|------------|
+|:-----------:|:----------:|:-----------:|:----------:|:-----------:|:----------:|
 | 0           | 0          | 12          | C          | 24          | Q          |
 | 1           | 1          | 13          | D          | 25          | R          |
 | 2           | 2          | 14          | E          | 26          | S          |
