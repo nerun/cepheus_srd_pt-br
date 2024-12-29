@@ -183,9 +183,8 @@ a serem considerados.
 
 #### Tabela 0-1: Temas Recorrentes
 
-|            |                                                                                                                                                                                                                                                                                                                                                       |
-|------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Tema       | Descrição                                                                                                                                                                                                                                                                                                                                             |
+| Tema       | Descrição                                                       |
+|------------|-----------------------------------------------------------------|
 | Colonial   | Os aventureiros estão nas fronteiras do espaço explorado, ajudando a selecionar um novo mundo para uma colônia e, em seguida, instalá-lo. Essas campanhas permitem que um grupo desenvolva um mundo único extensivamente.                                                                                                                             |
 | Comércio   | Os aventureiros vivem a bordo de um navio mercante ou de fronteira, ganhando a vida através do transporte de frete, passageiros, carga especulativa e um ocasional trabalho estranho. Essas campanhas exploram fortemente as regras de trocas e comércio.                                                                                             |
 | Vagamundo  | Os aventureiros se movem constantemente de um lugar para outro, sem qualquer casa ou trabalho fixo, buscando emprego através de trabalhos estranhos, enquanto exploram o universo que o Mestre criou. Essas campanhas às vezes são chamados de "Campanhas Sandbox" porque exploram livremente uma área previamente criada e desenvolvida pelo Mestre. |
@@ -218,9 +217,8 @@ dificuldade pode ser encontrada na tabela 0-2: Dificuldade das Tarefas.
 
 #### Tabela 0-2: Dificuldade das Tarefas
 
-|               |     |
+| Dificuldade   | MD* |
 |---------------|-----|
-| Dificuldade   | MD  |
 | Simples       | +6  |
 | Fácil         | +4  |
 | Rotineira     | +2  |
@@ -228,6 +226,8 @@ dificuldade pode ser encontrada na tabela 0-2: Dificuldade das Tarefas.
 | Difícil       | -2  |
 | Muito Difícil | -4  |
 | Formidável    | -6  |
+
+(*) Modificador de Dificuldade
 
 Em alguns casos, as consequências de um teste variam de acordo com o
 quão o resultado do teste está acima ou abaixo do número alvo 8. A
@@ -239,9 +239,8 @@ detalhes.
 
 #### Tabela 0-3: Graus de Sucesso
 
-|                   |                 |
-|-------------------|-----------------|
 | Alcance do Efeito | Grau de Sucesso |
+|-------------------|-----------------|
 | -6 ou mais baixo  | Falha Crítica   |
 | -1 to -5          | Falha           |
 | 0 to +5           | Sucesso         |
@@ -382,9 +381,8 @@ uma referência rápida para converter valores para uso no Cepheus Engine.
 
 #### Tabela 0-4: Notação Pseudo-hexadecimal
 
-|             |            |             |            |             |            |
-|-------------|------------|-------------|------------|-------------|------------|
 | Valor Atual | Pseudo Hex | Valor Atual | Pseudo Hex | Valor Atual | Pseudo Hex |
+|-------------|------------|-------------|------------|-------------|------------|
 | 0           | 0          | 12          | C          | 24          | Q          |
 | 1           | 1          | 13          | D          | 25          | R          |
 | 2           | 2          | 14          | E          | 26          | S          |

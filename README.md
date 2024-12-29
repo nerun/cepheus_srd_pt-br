@@ -6,7 +6,7 @@ _<center>Um Sistema de Jogo Aberto, baseado em 2D6, de Ficção Científica na E
 
 Por Jason "Flynn" Kemp.
 
-Copyright © 2016 Samardan Press
+Copyright © 2016 Samardan Press.
 
 Cepheus Engine e Samardan Press são marcas comerciais de Jason "Flynn" Kemp.
 
