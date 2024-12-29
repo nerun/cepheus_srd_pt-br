@@ -1,10 +1,8 @@
-# <center>Cepheus Engine</center>
+<h1 style="text-align:center">Cepheus Engine</h1> <!-- {docsify-ignore-all} -->
 
-# <center>Documento de Referência do Sistema</center>
+<h1 style="text-align:center">Documento de Referência do Sistema</h1>
 
 _<center>Um Sistema de Jogo Aberto, baseado em 2D6, de Ficção Científica na Era Clássica.</center>_
-
-### Autor e Copyright
 
 Por Jason "Flynn" Kemp.
 
@@ -12,17 +10,17 @@ Copyright © 2016 Samardan Press
 
 Cepheus Engine e Samardan Press são marcas comerciais de Jason "Flynn" Kemp.
 
-### Créditos
+#### Créditos
 
 **Revisão do texto em inglês:** Jeff Hopper.
 
 **Tradução:** Daniel Dias Rodrigues.
 
-### Designação de Conteúdo de Jogo Aberto
+#### Designação de Conteúdo de Jogo Aberto
 
 Todo o texto neste documento é designado como Conteúdo de Jogo Aberto, exceto pelos títulos de produtos publicados pela Samardan Press e pelas marcas comerciais "Cepheus Engine" e "Samardan Press".
 
-### Designação de Identidade do Produto
+#### Designação de Identidade do Produto
 
 Qualquer título de um produto publicado pela Samardan Press é designado como Identidade do Produto.
 
