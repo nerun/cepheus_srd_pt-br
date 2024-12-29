@@ -1,4 +1,4 @@
-# Licenciamento
+# Licenciamento <!-- {docsify-ignore-all} -->
 
 _**O seguinte é um aviso importante:**_
 
