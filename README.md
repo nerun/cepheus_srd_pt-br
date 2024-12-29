@@ -1,14 +1,30 @@
-# Documento de Referência do Sistema "Cepheus Engine"
+# <center>Cepheus Engine</center>
 
-Este site disponibiliza no [formato markdown](extra_01-manifesto.md) as regras do sistema de jogo **Cepheus Engine**, liberado sob os termos da [OGL](Licenciamento.md).
+# <center>Documento de Referência do Sistema</center>
 
-Cepheus Engine é um _roleplaying_ de ficção científica em um futuro distante criado por Jason "Flynn" Kemp, e publicado pela Samardan Press em 2016.
+_<center>Um Sistema de Jogo Aberto, baseado em 2D6, de Ficção Científica na Era Clássica.</center>_
 
-O original em inglês pode ser baixado gratuitamente no **DriveThruRPG**:
+### Autor e Copyright
 
-- [Cepheus Engine SRD, Modifiable Version (DOCX)](https://www.drivethrurpg.com/pt/product/187941/cepheus-engine-srd-modifiable-version)
-- [Cepheus Engine System Reference Document (PDF)](https://www.drivethrurpg.com/pt/product/186894/cepheus-engine-system-reference-document)
+Por Jason "Flynn" Kemp.
 
-O RPG Cepheus Engine compreende as regras básicas para um Sistema de Jogo Aberto de Ficção Científica Espacial, com mecânica baseada na rolagem de 2D6. Inspirado pelos três livros originais do _Classic Traveller_ de 1977, o sistema Cepheus Engine incorpora elementos de Conteúdo de Jogo Aberto de lançamentos anteriores desse jogo de vagamundos e viajantes intergalácticos para criar um sistema básico que permite tanto a jogadores quanto Mestres criar seus próprios universos de ficção científica ou jogar nos que já conhecem.
+Copyright © 2016 Samardan Press
 
-Você encontrará aqui o cerne para o seu jogo de ficção científica favorito. Pode explorar o espaço interestelar, fazer uma fortuna em comércio especulativo, acabar no outro lado do setor após um erro de salto grave ou até explodir pessoas com a mente, se conseguir o treinamento necessário. Você pode até mesmo morrer durante a criação do personagem. Este manuscrito é independente, e fornece todas as regras necessárias para jogar. As regras do Cepheus Engine foram intencionalmente projetadas para integrar-se bem com outros sistemas de jogos de ficção científica baseados em 2D6, especialmente com os módulos e suplementos do _Classic Traveller_. Todo o material das regras do Cepheus Engine é considerado Conteúdo de Jogo Aberto.
+Cepheus Engine e Samardan Press são marcas comerciais de Jason "Flynn" Kemp.
+
+### Créditos
+
+**Revisão do texto em inglês:** Jeff Hopper.
+
+**Tradução:** Daniel Dias Rodrigues.
+
+### Designação de Conteúdo de Jogo Aberto
+
+Todo o texto neste documento é designado como Conteúdo de Jogo Aberto, exceto pelos títulos de produtos publicados pela Samardan Press e pelas marcas comerciais "Cepheus Engine" e "Samardan Press".
+
+### Designação de Identidade do Produto
+
+Qualquer título de um produto publicado pela Samardan Press é designado como Identidade do Produto.
+
+> [!Note]
+> Este Produto é derivado do Traveller System Reference Document e de outros Conteúdos de Jogos Abertos disponibilizados sob a Open Game License, e não contém conteúdo fechado de produtos publicados pela Mongoose Publishing ou pela Far Future Enterprises. Este Produto não é afiliado à Mongoose Publishing ou à Far Future Enterprises, e não reivindica nem contesta quaisquer marcas registradas detidas por qualquer uma das entidades. O uso do Traveller System Reference Document não representa o endosso deste Produto pela Mongoose Publishing ou pela Far Future Enterprises como sendo um produto de qualquer uma das suas linhas de produtos.
