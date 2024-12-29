@@ -1,4 +1,4 @@
-# Sobre o site
+# Sobre o site <!-- {docsify-ignore-all} -->
 
 **Conversão para markdown e webdesigner:** Daniel Dias Rodrigues.
 
