@@ -4,7 +4,7 @@
   * [Open Game License (traduzida)](legal/OGL_pt-br.md)
 
 * Artigos
-  * [Exemplos Markdown](artigos/0_sample.md)
+  * [Exemplos Markdown para Docsify](artigos/0_sample.md)
   * [Manifesto pelo formato universal](artigos/1_manifesto.md)
 
 * Favoritos
