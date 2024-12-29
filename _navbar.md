@@ -19,3 +19,4 @@
 * Favoritos
   * [GURP*Zine*](https://www.gurpzine.com.br)
   * [Sistema Daemon SRD](https://nerun.github.io/sistema-daemon)
+  * [Docsify](https://docsify.js.org)
